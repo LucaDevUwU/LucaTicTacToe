@@ -1,0 +1,1 @@
+To run the program run ``python3 game.py`` and have fun (it looks like doggy doo doo tho)
